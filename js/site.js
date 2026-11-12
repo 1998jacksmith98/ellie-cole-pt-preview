@@ -16,7 +16,6 @@ document.getElementById("site-header").innerHTML = `
       <a class="brand" href="index.html">Ellie Cole PT</a>
       <nav class="desk-nav">
         <a href="${home}#work">Ways to train</a>
-        <a href="${home}#classes">Reformer</a>
         <a href="${home}#pt">PT</a>
         <a href="${home}#studio">Sessions</a>
         <a href="${home}#reviews">Reviews</a>
