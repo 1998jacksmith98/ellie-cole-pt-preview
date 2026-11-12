@@ -232,5 +232,9 @@ if (!reduce) {
     buttons.forEach((b, i) => b.classList.toggle("is-on", i === best));
   };
   mark();
+  // Centre the middle card on load
+  if (cards.length > 2) {
+    setTimeout(() => cards[Math.floor(cards.length / 2)].scrollIntoView({ behavior: "auto", inline: "center", block: "nearest" }), 100);
+  }
   scroller.addEventListener("scroll", mark, { passive: true });
 })();
