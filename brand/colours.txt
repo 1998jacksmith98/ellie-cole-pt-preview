@@ -1,0 +1,28 @@
+Ellie Cole PT — brand colours
+Collected 12 Nov 2026 from her studio neon sign, flower-wall photos and the Burn & Breathe graphic.
+These are sampled from photographs / a designed graphic, not from a supplied brand guide.
+Do NOT use the default Linktree "leaf" green (#43E660) — that is Linktree's theme, not hers.
+
+PRIMARY — neon / hot pink (from the "Ellie_ColePT" studio neon wordmark)
+  Neon tube (core):      #E21783    rgb(226, 23, 131)
+  Neon mid highlight:    #F574B7    rgb(245, 116, 183)
+  Neon pale glow:        #F7B2E9    rgb(247, 178, 233)
+
+SOFT PINK — graphics and kit
+  Burn & Breathe border: #FFD5D6    rgb(255, 213, 214)
+  Pink running vest:     #D5979C    rgb(213, 151, 156)
+  (her 5-year celebration set is a pale pink / lilac camisole and trousers;
+   photographs pick up mixed lighting, so treat as soft blush rather than a hard swatch)
+
+SAGE — from the Burn & Breathe Christmas graphic (arch fill)
+  Sage:                  #BEC5A4    rgb(190, 197, 164)
+  Sage (slightly cooler):#B2C0A4    rgb(178, 192, 164)
+
+NEUTRALS — gym interior
+  Near-black gym floor:  #17222E    rgb(23, 34, 46)
+  Charcoal:              #3C3C3E    rgb(60, 60, 62)
+  White typography / walls: #FFFFFF
+  Painted white brick photographs warm under studio light (~#DCBB90);
+   on a website treat the walls as off-white / white, not beige.
+
+Suggested site pair: neon pink #E21783 on black or white, with sage and blush as supports.

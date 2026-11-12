@@ -1,0 +1,137 @@
+# Ellie Cole PT — photo shot list
+# Collected 12 Nov 2026, anonymous only (no Instagram login). Instagram @ellie_colept.
+# Stills come from Instagram's public media endpoint (?size=l) for each carousel slide: full frame as posted, NOT square crops.
+# Dimensions are of the file saved here. The JPEGs are exact copies (not re-encoded).
+#
+# TEXT OVERLAY KEY
+#   NONE        = no text added by Instagram or an editing app
+#   SCENE TEXT  = only real-world text in the photo (neon sign, race bib, kit branding, shop sign, whiteboard)
+#   OVERLAY     = text added on top of the photo  <-- Jack's rule: avoid where possible
+#
+# Jack expected a lot of her gym selfies to carry text. In the 12 latest posts that's true for the
+# day-off and ramen carousels and the reels, but her 5-year studio set and her race carousels are clean,
+# so every hero / about-me shot here is NONE or SCENE TEXT. Only services-01 is a full text graphic.
+
+photos/hero-01.jpg  1080x1440  3:4  TEXT: SCENE TEXT (pink neon "Ellie_ColePT" sign; small MIRAFIT logo on kit)
+  Source: https://www.instagram.com/p/DYt4K7aDOzR/  slide 2 (child DYt4HCrMmGs), 24 May 2026 — "Celebrating 5 years of Ellie Cole PT"
+  What: Ellie standing smiling in her own studio, pale pink camisole and wide trousers, holding a boxed celebration cake. White-painted brick, black floor, squat stand and barbell left, dumbbell rack right, flower wall with her neon wordmark top right.
+  Suggested use: HERO. Best wide shot of her plus her brand sign plus the studio.
+
+photos/hero-02.jpg  1080x1440  3:4  TEXT: SCENE TEXT (neon "Ellie_ColePT" behind her and mirrored; MIRAFIT box)
+  Source: https://www.instagram.com/p/DYt4K7aDOzR/  slide 6 (child DYt4HbXsByk), 24 May 2026
+  What: Closer three-quarter portrait in the studio with the unboxed heart-piped cake; neon sign readable directly behind her head, mirror reflection left, MIRAFIT plyo box and dumbbells.
+  Suggested use: Alt hero / about-me. Very similar to slide 1 of the post, which HAS an overlay ("5 Years Of Ellie Cole PT") — that slide was deliberately NOT used.
+
+photos/about-me-01.jpg  1080x1440  3:4  TEXT: SCENE TEXT (neon glow above her head — mostly cut off, cake piping)
+  Source: https://www.instagram.com/p/DYt4K7aDOzR/  slide 7 (child DYt4HeyMlO4), 24 May 2026
+  What: Face close-up, eyes to camera, holding the cake up to her chin, neon and flower wall behind.
+  Suggested use: About-me / personal, fun. Cake covers her mouth, so less "headshot" than hero-02.
+
+photos/about-me-02.jpg  1080x1440  3:4  TEXT: SCENE TEXT (tiny neon in background mirror; "AMONAX" on a bench)
+  Source: https://www.instagram.com/p/DYt4K7aDOzR/  slide 5 (child DYt4HRqM57z), 24 May 2026
+  What: Wide-angle selfie from the studio door, laughing, pretending to bite the cake. Shows the whole room: strip light, white brick, rack, plates, dumbbells, hanging plants.
+  Suggested use: About-me / "the studio" — best photo of the space itself. Her outstretched arm dominates the foreground.
+
+photos/about-me-03.jpg  337x337  square (original avatar is square)  TEXT: NONE
+  Source: Linktree avatar for linktr.ee/ellie_colept (same file as brand/profile-pic.jpg)
+  What: Head-and-shoulders selfie in a white shirt, outdoors by railings.
+  Suggested use: Small avatar / testimonial-style circle only. LOW-RES (337px) — too small for anything large.
+
+photos/clients-01.jpg  1080x1440  3:4  TEXT: SCENE TEXT (hand-written whiteboard "October! Client Of the Month Sophie!", neon partly hidden, MIRAFIT)
+  Source: https://www.instagram.com/p/DfnKzhvEQeg/  slide 2 (child DfnKXVfRXwj), 11 Nov 2026
+  What: CLIENT Sophie (not Ellie) at the studio flower wall with bouquet and whiteboard.
+  Suggested use: Client results / client of the month. Ask Ellie + Sophie for consent before using a client's face on a business site.
+  Notes: Slide 1 of this post (DfnKXIiRyph) is the same pose WITH an Instagram text overlay "October Client Of The Month" — NOT used.
+
+photos/action-01.jpg  1080x1254  TEXT: SCENE TEXT (race bib "ELLIE 6778", event signs)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 1 (child DIG3LgXoNvH), 6 Apr 2025 — London Landmarks Half Marathon, PB 1:43:42
+  What: Full-length on a sunny London street after the race, pink running vest, black shorts, crowd behind.
+  Suggested use: Action / "about me — runner" / achievements.
+
+photos/action-02.jpg  1080x1248  TEXT: SCENE TEXT (race bib)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 6 (child DIG3LgTov45), 6 Apr 2025
+  What: Same street, arm raised celebrating.
+  Suggested use: Action / achievements.
+
+photos/lifestyle-01.jpg  1080x1254  TEXT: SCENE TEXT (bib; a passer-by's tote reads "END ABUSE TOGETHER / women's aid")
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 2 (child DIG3LgUoOGL), 6 Apr 2025
+  What: Full-length, smiling, strong shadows, race crowd.
+  Suggested use: Lifestyle / about-me. Watch the third-party charity tote in the background.
+
+photos/lifestyle-02.jpg  1080x1248  TEXT: SCENE TEXT (bib, finisher bag print)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 3 (child DIG3LgSo71V), 6 Apr 2025
+  What: Holding the finisher bag on the street.
+  Suggested use: Lifestyle / achievements.
+
+photos/lifestyle-03.jpg  1080x1254  TEXT: NONE (lanyard print only)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 5 (child DIG3LgSob0D), 6 Apr 2025
+  What: Side profile with a spritz under a brick arch, hair bow, medal lanyard.
+  Suggested use: Lifestyle / personality.
+
+photos/lifestyle-04.jpg  1080x1254  TEXT: SCENE TEXT (bib)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 9 (child DIG3Lgmo8Wd), 6 Apr 2025
+  What: Full-length under a brick railway arch with drink and medal.
+  Suggested use: Lifestyle.
+
+photos/lifestyle-05.jpg  1080x1254  TEXT: NONE
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 8 (child DIG3LgTI9LQ), 6 Apr 2025
+  What: Mirror selfie at home in race kit.
+  Suggested use: Lifestyle (casual). Lower priority.
+
+photos/lifestyle-06.jpg  1080x1254  TEXT: SCENE TEXT (bib "ELLIE 6778", gel and sweet packaging)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 4 (child DIG3LgUI-lR), 6 Apr 2025
+  What: Flat-lay of race kit: pink vest, bib, gels, sweets.
+  Suggested use: Texture / blog / running section. Third-party brand packaging visible.
+
+photos/lifestyle-07.jpg  1080x1248  TEXT: SCENE TEXT (medal lettering)
+  Source: https://www.instagram.com/p/DIG3LyaItwY/  slide 7 (child DIG3LgUIGey), 6 Apr 2025
+  What: Spritz and medal on a pub table.
+  Suggested use: Achievements detail. Contains alcohol — optional.
+
+photos/lifestyle-08.jpg  1080x1350  4:5  TEXT: SCENE TEXT (bib "ELLIE 13625", medal)
+  Source: https://www.instagram.com/p/DBEO-a5okvm/  slide 1 (child DBEO-M2om2d), 13 Oct 2024 — Royal Parks Half, PB 1:50:25
+  What: Full-length in front of a big plane tree in autumn leaves, black kit, orange medal.
+  Suggested use: Lifestyle / achievements. Good autumn colour.
+
+photos/lifestyle-09.jpg  1080x1350  4:5  TEXT: SCENE TEXT (bib)
+  Source: https://www.instagram.com/p/DBEO-a5okvm/  slide 2 (child DBEO-M2oVMA), 13 Oct 2024
+  What: Same tree, peace sign.
+  Suggested use: Lifestyle.
+
+photos/lifestyle-10.jpg  1080x1350  4:5  TEXT: SCENE TEXT (bib)
+  Source: https://www.instagram.com/p/DBEO-a5okvm/  slide 4 (child DBEO-M3IRCX), 13 Oct 2024
+  What: Same tree, another pose.
+  Suggested use: Lifestyle (alt).
+
+photos/lifestyle-11.jpg  1080x1350  4:5  TEXT: SCENE TEXT (medal lettering)
+  Source: https://www.instagram.com/p/DBEO-a5okvm/  slide 3 (child DBEO-M3IOZM), 13 Oct 2024
+  What: Medal and spritz on a table.
+  Suggested use: Achievements detail. Optional.
+
+photos/lifestyle-12.jpg  1080x1440  3:4  TEXT: NONE
+  Source: https://www.instagram.com/p/DYt4K7aDOzR/  slide 3 (child DYt4HLwMiBN), 24 May 2026
+  What: Hand holding the boxed, pink-ribboned 5-year cake outside by a fence and plants. No face.
+  Suggested use: Small detail / "5 years in business" section.
+
+photos/services-01.jpg  1080x1350  4:5  TEXT: *** OVERLAY — FULL TEXT GRAPHIC ***
+  Source: https://www.instagram.com/p/DffcFgtxXcx/  8 Nov 2026 (single-image post)
+  What: Her designed "Burn & Breathe" Christmas event timetable — pink border, sage arch, faded tree, white script + caps text.
+  Suggested use: Reference for services/events and brand colours/fonts only. NOT a photo — do not use as a hero.
+
+# ----------------------------------------------------------------------------------------
+# NOT INCLUDED (and why)
+#   DYt4G8-sfjf  5-year slide 1 — OVERLAY "5 Years Of Ellie Cole PT" + emoji (clean twins used instead)
+#   DYt4GyVDAwb  5-year slide 4 — cake close-up, only 720x960, cake lettering
+#   DfnKXIiRyph  Sophie slide 1 — OVERLAY "October Client Of The Month"
+#   DIG3LgUoL-k  London Landmarks results graphic (OVERLAY / screenshot)
+#   DBEO-M2oHh8  Royal Parks splits screenshot (OVERLAY / screenshot)
+#   DBEO-M2oXDE  Royal Parks running-vest selfie from above (awkward angle)
+#   DfffdoSkVML  "Day off edition" 13 stills — almost every slide has OVERLAY captions (Home Bargains, soup, Pilates, etc.)
+#   DfX0ZeyFpEV  Ramen recipe 10 stills — OVERLAY recipe text, food only
+#   Reel covers DfnOodgBLc4, Dfb3fIkxTDq, DfVOzhPPV0q, DfiGzopx_8H, DfkmYsCB61p — all have OVERLAY text; reels are in videos/ instead
+#
+# GAPS
+#   - No clean STILL of her coaching a client / class. The class footage only exists as reels with burnt-in text
+#     ("POV: GROUP FITNESS SHOULD BE FUN", "KETTLEBELL POWER"). Ask her for raw class photos.
+#   - No before/after comparisons published in the posts reached → no comparisons/ folder.
+#   - Only the newest 12 of her 1001 posts were reachable anonymously. There will be more in her back catalogue.
