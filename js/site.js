@@ -28,18 +28,15 @@ document.getElementById("site-header").innerHTML = `
   <div class="mobile-nav" hidden>
     <nav>
       <a href="${home}#work">Ways to train</a>
-      <a href="${home}#classes">Reformer</a>
       <a href="${home}#pt">PT</a>
       <a href="${home}#studio">Sessions</a>
       <a href="${home}#reviews">Reviews</a>
       <a href="${ENQUIRE}">Enquire</a>
-      <a href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a>
       <a href="${IG}" target="_blank" rel="noreferrer">Instagram</a>
     </nav>
   </div>
   <div class="mobile-cta">
     <a class="btn" data-enquire href="${ENQUIRE}">Enquire</a>
-    <a class="btn ghost" href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a>
   </div>
 `;
 
@@ -48,15 +45,14 @@ document.getElementById("site-footer").innerHTML = `
     <div class="wrap footer-grid">
       <div>
         <p class="foot-name">Ellie Cole PT</p>
-        <p>Personal training and reformer pilates.</p>
+        <p>1:1 coaching, bootcamps and group classes.</p>
         <p><a href="${MAD}" target="_blank" rel="noreferrer">MAD Studio, 5 Marechal Niel Parade, Main Road, Sidcup DA14 6QF</a></p>
-        <p>Reformer classes: Salus House, 17 Foots Cray High Street, DA14 5HJ</p>
+        
       </div>
       <div>
         <p><a href="${WA}" target="_blank" rel="noreferrer">WhatsApp</a></p>
         <p><a href="${WA_GROUP}" target="_blank" rel="noreferrer">Join the girls group</a></p>
-        <p><a href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a></p>
-        <p><a href="${EMAIL}">jadeelliefitness@gmail.com</a></p>
+        
       </div>
       <div>
         <p><a href="${IG}" target="_blank" rel="noreferrer">Instagram</a></p>
