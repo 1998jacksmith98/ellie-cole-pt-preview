@@ -46,12 +46,12 @@ document.getElementById("site-footer").innerHTML = `
       <div>
         <p class="foot-name">Ellie Cole PT</p>
         <p>1:1 coaching, bootcamps and group classes.</p>
-        <p><a href="${MAD}" target="_blank" rel="noreferrer">MAD Studio, 5 Marechal Niel Parade, Main Road, Sidcup DA14 6QF</a></p>
+        <p>Private studio and sports hall, UK</p>
         
       </div>
       <div>
         <p><a href="${WA}" target="_blank" rel="noreferrer">WhatsApp</a></p>
-        <p><a href="${WA_GROUP}" target="_blank" rel="noreferrer">Join the girls group</a></p>
+        
         
       </div>
       <div>
