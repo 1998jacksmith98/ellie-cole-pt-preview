@@ -13,9 +13,7 @@ const home = page === "enquire.html" ? "index.html" : "";
 document.getElementById("site-header").innerHTML = `
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="index.html">
-        <img src="photos/logo.jpg" alt="Ellie Cole PT" />
-      </a>
+      <a class="brand" href="index.html">Ellie Cole PT</a>
       <nav class="desk-nav">
         <a href="${home}#work">Ways to train</a>
         <a href="${home}#classes">Reformer</a>
